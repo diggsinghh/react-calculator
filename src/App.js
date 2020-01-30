@@ -3,7 +3,6 @@ import './App.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCalculator } from '@fortawesome/free-solid-svg-icons'
 import Calculator from "./Calculator"
-import { noAuto } from '@fortawesome/fontawesome-svg-core';
 
 function App() {
   return (
